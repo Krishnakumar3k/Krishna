@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="352" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 
-- 👨‍💻 All of my projects are available at [https://sdekrishna.netlify.app/](https://sdekrishna.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sdekk.netlify.app/](https://sdekrishna.netlify.app/)
 
 - 📫 How to reach me **krishnakumar3kgt@gmail.com**
 
